@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       colors: {
         carribean: {
-          100: "#046865",
+          primary: "#046865",
         },
         vista: {
           100: "#7ea3cc",

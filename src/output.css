@@ -794,7 +794,7 @@ video {
   border-color: rgb(45 212 191 / var(--tw-border-opacity));
 }
 
-.bg-carribean-100 {
+.bg-carribean-primary {
   --tw-bg-opacity: 1;
   background-color: rgb(4 104 101 / var(--tw-bg-opacity));
 }
